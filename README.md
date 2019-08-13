@@ -1,8 +1,17 @@
-# GoLang 实现Windows下邮件槽封装
+## GoLang 实现Windows下邮件槽封装
 
-# Usage 使用方法
+## Usage 使用方法
+```
+go get github.com/xjtdy888/examples/...
 
-# Server
+server.exe
+client.exe
+```
+## 说明
+mailSlot.New 实现标准 io.Reader
+mailSlot.Open 实现标准 io.Writer
+
+## Server
 ```
 package main
 
