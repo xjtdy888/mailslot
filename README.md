@@ -8,8 +8,8 @@ server.exe
 client.exe
 ```
 ## 说明
-mailSlot.New 实现标准 io.Reader
-mailSlot.Open 实现标准 io.Writer
+- mailSlot.New 实现标准 io.Reader
+- mailSlot.Open 实现标准 io.Writer
 
 ## Server
 ```
@@ -40,7 +40,7 @@ func main() {
 }
 ```
 
-# Client
+## Client
 
 ```
 package main
