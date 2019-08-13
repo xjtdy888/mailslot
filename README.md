@@ -1,4 +1,4 @@
-## GoLang 实现Windows下邮件槽封装
+## GoLang 实现Windows下邮件槽(Mail Slot)封装
 
 ## Usage 使用方法
 ```
